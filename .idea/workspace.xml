@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aafa04c-cdbe-4d70-a451-765ccdb0b054" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/one-lesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/.idea/one-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/php/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/php/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/php/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-lesson/php/nav.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23q0C6oCwmTOfeunDZFqTzfwe0D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/one-lesson" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aafa04c-cdbe-4d70-a451-765ccdb0b054" name="Changes" comment="" />
+      <created>1642446179353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642446179353</updated>
+      <workItem from="1642446180719" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
